@@ -1,0 +1,22 @@
+
+input[type="password"]
+{
+  color: black;
+}
+.a{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 25px;
+  color: black;
+  text-decoration: none;
+}
+.a:hover
+{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 25px;
+  color: darkblue;
+  text-decoration: none;
+}
+a:hover {
+  cursor: pointer;
+  background-color: yellow;
+} 
